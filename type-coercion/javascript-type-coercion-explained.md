@@ -265,7 +265,7 @@ function ToPrimitive(input, preferredType) {
 下面是`Date`转换行为的一个例子：
 
 ```javascript
-et d = new Date();
+let d = new Date();
 
 // 获取字符串表示
 let str = d.toString();  // 'Wed Jan 17 2018 16:15:42'
